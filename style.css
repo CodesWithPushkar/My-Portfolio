@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background-color: #f5f5f5;
+}
+nav{
+    height: 60px;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name-career{
+    display: flex;
+    gap: 20px;
+}
+.details{
+    display: flex;
+    gap: 20px;
+}
+
+hr {
+    width: 2px;
+    border: none;
+    background-color: black;
+}
